@@ -1,0 +1,74 @@
+Begin Object Class=/Script/Engine.Material Name="M_HandMat"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSampleParameter2D Name="MaterialExpressionTextureSampleParameter2D_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_2"
+      DefaultValue=(R=0.450980,G=0.403922,B=0.360784,A=0.000000)
+      ParameterName="BodyColor"
+      ExpressionGUID=60B33CCE4EBD3776CF52A0A461C91479
+      MaterialExpressionEditorX=-1152
+      MaterialExpressionEditorY=-384
+      MaterialExpressionGuid=E4023E3B4C13414F2E9428852011F7AE
+      Material=Material'"M_HandMat"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSampleParameter2D_2"
+      ParameterName="NormalMap"
+      ExpressionGUID=95B640264CB53C844C22F6B6059E77D8
+      Texture=Texture2D'"/Game/VirtualReality/Mannequin/Character/Textures/UE4_Mannequin__normals.UE4_Mannequin__normals"'
+      SamplerType=SAMPLERTYPE_Normal
+      MaterialExpressionEditorX=-496
+      MaterialExpressionEditorY=336
+      MaterialExpressionGuid=F78106594F80A7504C69EF99390AD269
+      Material=Material'"M_HandMat"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_2"
+      Texture=Texture2D'"/Game/VirtualReality/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.UE4_Mannequin_MAT_MASKA"'
+      SamplerType=SAMPLERTYPE_LinearColor
+      MaterialExpressionEditorX=-1088
+      MaterialExpressionEditorY=-112
+      MaterialExpressionGuid=992DE3904CEBC0267723AAABE8D0ECCA
+      Material=Material'"M_HandMat"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_0"
+      A=(Expression=MaterialExpressionTextureSample'"M_HandMat:MaterialExpressionTextureSample_2"',OutputIndex=2,Mask=1,MaskG=1)
+      B=(Expression=MaterialExpressionVectorParameter'"M_HandMat:MaterialExpressionVectorParameter_2"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      MaterialExpressionEditorX=-566
+      MaterialExpressionEditorY=-47
+      MaterialExpressionGuid=FEFFAC814CDA8239EC9B1A8698A660C4
+      Material=Material'"M_HandMat"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_0"
+      R=0.400000
+      MaterialExpressionEditorX=-427
+      MaterialExpressionEditorY=141
+      MaterialExpressionGuid=B1B0ABAA434A5406AF0B8C9F8EE5DDF1
+      Material=Material'"M_HandMat"'
+   End Object
+   BaseColor=(Expression=MaterialExpressionMultiply'"MaterialExpressionMultiply_0"')
+   Roughness=(Expression=MaterialExpressionConstant'"MaterialExpressionConstant_0"')
+   Normal=(Expression=MaterialExpressionTextureSampleParameter2D'"MaterialExpressionTextureSampleParameter2D_2"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   bUsedWithSkeletalMesh=True
+   Expressions(0)=MaterialExpressionTextureSampleParameter2D'"MaterialExpressionTextureSampleParameter2D_2"'
+   Expressions(1)=MaterialExpressionVectorParameter'"MaterialExpressionVectorParameter_2"'
+   Expressions(2)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_2"'
+   Expressions(3)=MaterialExpressionMultiply'"MaterialExpressionMultiply_0"'
+   Expressions(4)=MaterialExpressionConstant'"MaterialExpressionConstant_0"'
+   bCanMaskedBeAssumedOpaque=True
+   StateId=4782034B401FF5EC6E2A9E80A43381FC
+   CachedExpressionData=(Parameters=(RuntimeEntries[1]=(NameHashes=(9914099235406128760),ParameterInfos=((Name="BodyColor")),ExpressionGuids=(60B33CCE4EBD3776CF52A0A461C91479),Overrides=(False)),RuntimeEntries[2]=(NameHashes=(9077192113530237068),ParameterInfos=((Name="NormalMap")),ExpressionGuids=(95B640264CB53C844C22F6B6059E77D8),Overrides=(False)),VectorValues=((R=0.450980,G=0.403922,B=0.360784,A=0.000000)),TextureValues=(Texture2D'"/Game/VirtualReality/Mannequin/Character/Textures/UE4_Mannequin__normals.UE4_Mannequin__normals"'),VectorChannelNameValues=(()),VectorUsedAsChannelMaskValues=(False),TextureChannelNameValues=(())),ReferencedTextures=(Texture2D'"/Game/VirtualReality/Mannequin/Character/Textures/UE4_Mannequin__normals.UE4_Mannequin__normals"',Texture2D'"/Game/VirtualReality/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.UE4_Mannequin_MAT_MASKA"'),QualityLevelsUsed=(False,False,False,False))
+   ReferencedTextureGuids(0)=44879B5B4D7D73DAFFD57C89D66732AD
+   ReferencedTextureGuids(1)=04FDA1D746B86B4F8BA1E09D11D86961
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=153D11B04984347F3A4244B3FD92589C
+End Object

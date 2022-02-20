@@ -1,0 +1,4 @@
+Begin Object Class=/Script/Engine.Skeleton Name="MannequinHand_Right_Skeleton"
+   BoneTree(15)=()
+   PreviewSkeletalMesh=/Game/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right.MannequinHand_Right
+End Object

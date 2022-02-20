@@ -42,6 +42,15 @@
 		{
 			"Name": "AdvancedSteamSessions",
 			"Enabled": true
+		},
+		{
+			"Name": "OculusOpenXR",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win32",
+				"Win64",
+				"Android"
+			]
 		}
 	]
 }

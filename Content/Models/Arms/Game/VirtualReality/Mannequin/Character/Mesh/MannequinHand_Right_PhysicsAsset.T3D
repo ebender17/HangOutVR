@@ -1,0 +1,17 @@
+Begin Object Class=/Script/Engine.PhysicsAsset Name="MannequinHand_Right_PhysicsAsset"
+   Begin Object Class=/Script/Engine.SkeletalBodySetup Name="SkeletalBodySetup_0"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfo Name="SceneThumbnailInfo_0"
+   End Object
+   Begin Object Name="SkeletalBodySetup_0"
+      AggGeom=(SphylElems=((Center=(X=-4.864255,Y=1.293933,Z=-0.692587),Rotation=(Pitch=-0.000007,Yaw=81.924988,Roll=-86.688240),Radius=3.596134,Length=9.555506)))
+      BoneName="hand_r"
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+   End Object
+   Begin Object Name="SceneThumbnailInfo_0"
+   End Object
+   PreviewSkeletalMesh=/Game/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right.MannequinHand_Right
+   BoundsBodies(0)=0
+   SkeletalBodySetups(0)=SkeletalBodySetup'"SkeletalBodySetup_0"'
+   ThumbnailInfo=SceneThumbnailInfo'"SceneThumbnailInfo_0"'
+End Object
