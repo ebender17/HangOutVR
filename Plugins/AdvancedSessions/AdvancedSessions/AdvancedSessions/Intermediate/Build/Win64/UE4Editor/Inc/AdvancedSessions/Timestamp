@@ -1,21 +1,21 @@
-E:\Staging\AdvancedSessions\HostProject\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedFriendsInterface.h
-E:\Staging\AdvancedSessions\HostProject\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedIdentityLibrary.h
-E:\Staging\AdvancedSessions\HostProject\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedFriendsLibrary.h
-E:\Staging\AdvancedSessions\HostProject\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedFriendsGameInstance.h
-E:\Staging\AdvancedSessions\HostProject\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedGameSession.h
-E:\Staging\AdvancedSessions\HostProject\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\LoginUserCallbackProxy.h
-E:\Staging\AdvancedSessions\HostProject\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedVoiceLibrary.h
-E:\Staging\AdvancedSessions\HostProject\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\GetRecentPlayersCallbackProxy.h
-E:\Staging\AdvancedSessions\HostProject\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\GetFriendsCallbackProxy.h
-E:\Staging\AdvancedSessions\HostProject\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\FindSessionsCallbackProxyAdvanced.h
-E:\Staging\AdvancedSessions\HostProject\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\GetUserPrivilegeCallbackProxy.h
-E:\Staging\AdvancedSessions\HostProject\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\CreateSessionCallbackProxyAdvanced.h
-E:\Staging\AdvancedSessions\HostProject\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\EndSessionCallbackProxy.h
-E:\Staging\AdvancedSessions\HostProject\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\FindFriendSessionCallbackProxy.h
-E:\Staging\AdvancedSessions\HostProject\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedExternalUILibrary.h
-E:\Staging\AdvancedSessions\HostProject\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\UpdateSessionCallbackProxyAdvanced.h
-E:\Staging\AdvancedSessions\HostProject\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\SendFriendInviteCallbackProxy.h
-E:\Staging\AdvancedSessions\HostProject\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\LogoutUserCallbackProxy.h
-E:\Staging\AdvancedSessions\HostProject\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\CancelFindSessionsCallbackProxy.h
-E:\Staging\AdvancedSessions\HostProject\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedSessionsLibrary.h
-E:\Staging\AdvancedSessions\HostProject\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\BlueprintDataDefinitions.h
+G:\Unity Projects\New Unity Project\HangOutVR\Plugins\AdvancedSessions\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedExternalUILibrary.h
+G:\Unity Projects\New Unity Project\HangOutVR\Plugins\AdvancedSessions\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedFriendsGameInstance.h
+G:\Unity Projects\New Unity Project\HangOutVR\Plugins\AdvancedSessions\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedFriendsInterface.h
+G:\Unity Projects\New Unity Project\HangOutVR\Plugins\AdvancedSessions\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedFriendsLibrary.h
+G:\Unity Projects\New Unity Project\HangOutVR\Plugins\AdvancedSessions\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedGameSession.h
+G:\Unity Projects\New Unity Project\HangOutVR\Plugins\AdvancedSessions\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedIdentityLibrary.h
+G:\Unity Projects\New Unity Project\HangOutVR\Plugins\AdvancedSessions\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedVoiceLibrary.h
+G:\Unity Projects\New Unity Project\HangOutVR\Plugins\AdvancedSessions\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedSessionsLibrary.h
+G:\Unity Projects\New Unity Project\HangOutVR\Plugins\AdvancedSessions\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\CancelFindSessionsCallbackProxy.h
+G:\Unity Projects\New Unity Project\HangOutVR\Plugins\AdvancedSessions\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\BlueprintDataDefinitions.h
+G:\Unity Projects\New Unity Project\HangOutVR\Plugins\AdvancedSessions\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\CreateSessionCallbackProxyAdvanced.h
+G:\Unity Projects\New Unity Project\HangOutVR\Plugins\AdvancedSessions\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\EndSessionCallbackProxy.h
+G:\Unity Projects\New Unity Project\HangOutVR\Plugins\AdvancedSessions\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\FindSessionsCallbackProxyAdvanced.h
+G:\Unity Projects\New Unity Project\HangOutVR\Plugins\AdvancedSessions\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\FindFriendSessionCallbackProxy.h
+G:\Unity Projects\New Unity Project\HangOutVR\Plugins\AdvancedSessions\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\GetFriendsCallbackProxy.h
+G:\Unity Projects\New Unity Project\HangOutVR\Plugins\AdvancedSessions\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\GetRecentPlayersCallbackProxy.h
+G:\Unity Projects\New Unity Project\HangOutVR\Plugins\AdvancedSessions\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\GetUserPrivilegeCallbackProxy.h
+G:\Unity Projects\New Unity Project\HangOutVR\Plugins\AdvancedSessions\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\LoginUserCallbackProxy.h
+G:\Unity Projects\New Unity Project\HangOutVR\Plugins\AdvancedSessions\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\LogoutUserCallbackProxy.h
+G:\Unity Projects\New Unity Project\HangOutVR\Plugins\AdvancedSessions\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\UpdateSessionCallbackProxyAdvanced.h
+G:\Unity Projects\New Unity Project\HangOutVR\Plugins\AdvancedSessions\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\SendFriendInviteCallbackProxy.h
